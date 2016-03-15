@@ -55,4 +55,4 @@ Start the bot
 `lua bot.lua`
 
 
-Developer : [JAVID](https://telegram.me/iamjavid)
+Developer and sudo : [sorblack](https://telegram.me/sorblack)
